@@ -1,4 +1,4 @@
-# Pymaceuticals_Challenge
+# Pymaceuticals_Projects
 ## Pymaceuticals, Inc. - SCC Treatment Study Analysis
 # Project Overview
 This analysis focuses on a recent animal study conducted by Pymaceuticals, Inc., a pharmaceutical company specializing in anti-cancer medications. The study evaluates the efficacy of various treatment regimens, including the company’s drug of interest, Capomulin, on squamous cell carcinoma (SCC) in mice. A total of 249 mice were observed over a period of 45 days, with tumor volume recorded at multiple time points. The goal of this study is to compare Capomulin's performance against other treatments.
